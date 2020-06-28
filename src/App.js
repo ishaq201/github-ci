@@ -11,7 +11,8 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          <a href = "https://ishaqmohammed.me/"> Ishaq Mohammed </a>
+          Experiments and Learnings of Ishaq Mohammed
+      https://ishaqmohammed.me/
         </p>
       </div>
     );
